@@ -34,3 +34,7 @@
 ### 本课程学习方式
 - 第一视角带大家好好刷题，感受程序员解决问题的快感
 - 顺便学个习
+
+### 用到的工具
+- python 开发环境anaconda + jupyter-notebook
+- github 下载资料的网站https://github.com/virgotatus/pythonchallenge
